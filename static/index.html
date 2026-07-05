@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Secure Math Guardrail Bot</title>
+    <link rel="stylesheet" href="/static/style.css">
+</head>
+<body>
+    <div class="chat-container">
+        <div class="chat-header">
+            <h2>🧮 Secure Math Assistant</h2>
+            <p>Powered by NeMo Guardrails & Groq</p>
+        </div>
+        <div class="chat-box" id="chatBox">
+            <div class="message bot-message">
+                Hello! Please provide a mathematical calculation you would like me to compute.
+            </div>
+        </div>
+        <div class="input-container">
+            <input type="text" id="userInput" placeholder="Type a math formula (e.g., (25 * 4) + 15)..." onkeypress="handleKeyPress(event)">
+            <button onclick="sendMessage()">Send</button>
+        </div>
+    </div>
+
+    <script src="/static/script.js"></script>
+</body>
+</html>
