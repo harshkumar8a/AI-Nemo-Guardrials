@@ -18,6 +18,8 @@ A high-performance, asynchronous single-page chatbot designed to safely and accu
 
 ## 🎥 Demo
 
+https://github.com/user-attachments/assets/653ce482-1933-4993-866e-87b99b7c506f
+
 
 
 ## 🚀 Key Features
@@ -106,6 +108,7 @@ Once initialized, open your browser and navigate to the base address:
 
 ## 📸 Screenshots
 
+<img width="633" height="838" alt="nemo-guardrail-image" src="https://github.com/user-attachments/assets/c7e968ab-75c0-4ec2-a7dd-1ae4d8fc6cf8" />
 
 
 
